@@ -17,7 +17,7 @@ data = 10+5j       # X+Yj          X -> Real part          Y -> Imaginary part
 print(type(data))
 print(data)
 
-#######################################
+######################################
 
 i = None
 print(type(i))
